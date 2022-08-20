@@ -1,0 +1,22 @@
+body {
+    font-family: 'Almendra';
+}
+
+h1, h3, h2 {
+    font-family: 'Aboreto';
+}
+
+.card {
+    display: inline-block;
+    border: 1px solid lightgrey;
+    width: 250px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h3 {
+    text-align: center;
+}
